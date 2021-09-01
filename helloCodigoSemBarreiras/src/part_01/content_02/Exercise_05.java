@@ -47,6 +47,7 @@ public class Exercise_05 {
             case 4:
                 int multiplicacao = numberFisrt * numberSecond;
                 System.out.println("O resultado da Multiplicação é: " +  multiplicacao);
+                break;
 
 
         }
